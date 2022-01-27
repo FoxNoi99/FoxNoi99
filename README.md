@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>Profile/プロフィール</h1>
-    <p>name:FoxNoi99<br>age:16<br>country:Japan🇯🇵</p>
+    <p>I'm FoxNoi99.I'm Japanese highschool student.<br>I'm learning these languages.</p>
     <ul>
       <li>HTML</li>
       <li>CSS</li>
