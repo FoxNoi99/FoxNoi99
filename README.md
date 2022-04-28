@@ -11,8 +11,6 @@
       <li>CSS</li>
       <li>JavaScript</li>
     </ul>
-    <h1>Other/その他</h1>
-    <p>アイコンはMITライセンスの元で使用しています。</p>
   </body>
 </html>
     
