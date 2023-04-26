@@ -1,5 +1,6 @@
 ## My Profile
-I'm a Japanese highschool student.  I use these coding languages.
+I'm a Japanese highschool student.  
+I use these coding languages.
 * HTML
 * CSS
 * JavaScript
